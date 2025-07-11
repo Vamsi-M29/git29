@@ -1,1 +1,1 @@
-hello from both branchescat file.txt
+hello from both branches
